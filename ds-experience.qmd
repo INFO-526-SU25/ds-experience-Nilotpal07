@@ -1,28 +1,21 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "3 projects that can make you a household* name"
+author: "Nilotpal Rajbongshi"
 categories: "Lab"
 
 ---
 
-
--   [Part 1: Experience data science outside of the classroom](#part-1-experience-data-science-outside-of-the-classroom)
-
--   [Part 2: Summarize your experience](#part-2-summarize-your-experience)
-
--   [Submission](#submission)
-
-
 ## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
 
-Give the information for the experience. 
+For data science experience outside the classroom, I had the opportunity to listen to the podcast episode called ”3 projects that can make you a household* name” on Spotify, hosted by the Data Science Imposters podcast with Alex Beutal, KDD Cup co-chair. The podcast's main focus was to go through 3 projects for the year 2021 KDD Cup, which is the longest-running conference on data science. 
 
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
 Summary: 
 
+KDD(Knowledge Discovery and Data Mining) conference, which is held every year, is something I had never heard of before, and I learned about it through this podcast. It talks about how the Machine Learning and Artificial Intelligence community came out of the Data Science community, and how everything evolved initially through statistics. The projects talked about were challenges in time series anomaly detection, how a time series can be created with a given dataset, making it a more general problem-solving technique, and working with unlabelled data. Machine learning on large graphs with over a billion edges is the other project talked about. 
 
-## Submission {#submission}
+Although the podcast does not directly speak about data visualization using R, it talks about data collection and manipulation and the possible problems we can solve through machine learning. Large datasets were mentioned in the podcast which I can somehow relate in this course, as we have might work with huge data in data viz as well. In one of ways, I feel working on one of these projects, storytelling through data visualization, might be handy to explain it to the stakeholders.
 
-Submit the reflection as a PDF under the **Data Science Experience** assignment on GitHub by **Friday, December 06 at 11:59pm.** It must be submitted by the deadline on GitHub to be considered for grading.
+Podcast Link : https://open.spotify.com/episode/1uiRTYCUBC12gpn8iDUFIN
